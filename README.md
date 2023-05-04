@@ -4,4 +4,5 @@
 - 🚩My group project on Le Wagon: 
        --> https://github.com/Broenix/TravellHer
        --> https://github.com/Broenix/HairBnB
-- Currently practising to develop Web sites : CampingSharing
+- Currently practising to develop Web sites : MyHomeInfos : https://github.com/AlexCourivaud/MyHomeInfos
+       MyHomeInfo is a web app for everyone who whant to managed and set all information in every room of your home - Furnitures, items, paints ...
