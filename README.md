@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Alexandre Courivaud, I am a former Buyer. Two years age I managed to suceed a bootcamp as Web Developper in Ruby.
+- 👋 Hi, my name is Alexandre Courivaud, I am a former Buyer. Two years ago I managed to suceed a bootcamp as Web Developper in Ruby.
 - 👀 I am currently on an apprenticeship specialised in AI and Python at IBM France with the IBM Academy
 - 📫 How to reach me: https://www.linkedin.com/in/alexandre-courivaud
 - 🚩My portfolio : https://courivaud.needemand.com/ -- WORK IN PROGRESS 🚧
