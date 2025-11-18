@@ -1,4 +1,4 @@
-Version Française:
+Version Française: (English version below !)
 - 👋 Bonjour, je suis Alexandre Courivaud, anciennement acheteur et manager. J'ai décidé de me plonger dans le monde de la tech en suivant une formation bootcamp au Wagon.
 - 👀 Je suis actuellement en alternance en tant concepteur développeur d'application avec spécialisation IA au sein de l'IBM Académy de Loire Atlantique.
 - 👨‍💻 Je suis en train de créer une application de gestionnaire de tache sous Django, React et Docker pour ma soutenance 
@@ -11,7 +11,7 @@ Version Française:
        --> https://github.com/Broenix/HairBnB (🔶 Ruby on Rails, Air BnB like app)
 
   ____________________
-English version:
+
 - 👋 Hi, my name is Alexandre Courivaud, I am a former Buyer and Manager. Two years ago I managed to suceed a bootcamp as Web Developper in Ruby.
 - 👀 I am currently on an apprenticeship specialised in AI and Python at IBM France with the IBM Academy
 - 💻 I am building an task manager app with Django, React and docker for my apprentice.
