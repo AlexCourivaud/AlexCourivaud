@@ -3,7 +3,7 @@ Version Française: (English version below !)
 - 👀 Je suis actuellement en alternance en tant concepteur développeur d'application avec spécialisation IA au sein de l'IBM Académy de Loire Atlantique.
 - 👨‍💻 Je suis en train de créer une application de gestionnaire de tache sous Django, React et Docker pour ma soutenance 
 - 💻 Je suis également alternant auprès de l'équipe Client Engineering d'IBM, je travaille sur des POC lié à des outils IA pour les clients d'IBM. Utilisation de Docker, Postman, prompt tuning, création de bot.
-- 📫 Retrouvez moi sur mon linkedin : https://www.linkedin.com/in/alexandre-courivaud
+- 📫 Retrouvez moi sur linkedin : https://www.linkedin.com/in/alexandre-courivaud
 - 🚩Mon portfolio : -- WORK IN PROGRESS 🚧
 - 🚩Ma liste de projet au sein de l'IBM Academy : https://github.com/users/AlexCourivaud/projects/4/ 
 - 🚩Mes projets de groupe au Wagon  
